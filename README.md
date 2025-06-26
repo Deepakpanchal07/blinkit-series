@@ -4,7 +4,7 @@
 
 ## 📥 Download APK
 
-👉 [Download Blinkit App APK](./blinkit.apk)
+👉 [Download Blinkit App APK](./blinkit.apk)  (only open in mobile)
 
 A new Flutter project.
 
